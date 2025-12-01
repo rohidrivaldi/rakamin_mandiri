@@ -2,12 +2,6 @@
 
 Aplikasi berita Android untuk tugas akhir Virtual Internship Experience (VIE) Bank Mandiri x Rakamin Academy.
 
-## Screenshots
-
-| Home Light | Home Dark | Detail |
-|------------|-----------|--------|
-| ![Home](screenshots/home_light.png) | ![Dark](screenshots/home_dark.png) | ![Detail](screenshots/detail.png) |
-
 ## Fitur
 
 - **Carousel Berita Terkini** - ViewPager2 dengan auto-slide dan navigasi
