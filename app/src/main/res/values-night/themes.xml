@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Night theme inherits from DayNight, colors come from values-night/colors.xml -->
+</resources>

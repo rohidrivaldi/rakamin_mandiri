@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MandiriNews</string>
+    <string name="headline_section">Latest News</string>
+    <string name="all_news_section">All News</string>
+    <string name="headline_image">Headline image</string>
+    <string name="news_image">News image</string>
+    <string name="error_load_headline">Failed to load headlines</string>
+    <string name="error_load_news">Failed to load news</string>
+    <string name="retry">Try Again</string>
+    <string name="no_news">No news available</string>
+    <string name="loading">Loading…</string>
+    
+    <!-- Detail Activity -->
+    <string name="detail_title">News Detail</string>
+    <string name="open_in_browser">Open in Browser</string>
+    <string name="share">Share</string>
+    <string name="read_full_article">Read Full Article</string>
+    <string name="source">Source</string>
+    <string name="author">Author</string>
+    <string name="published_at">Published at</string>
+    <string name="unknown_author">Unknown author</string>
+    <string name="unknown_source">Unknown source</string>
+    <string name="no_description">No description available</string>
+    <string name="no_content">Content not available. Click the button below to read the full article.</string>
+    
+    <!-- Settings -->
+    <string name="dark_mode">Dark Mode</string>
+    <string name="light_mode">Light Mode</string>
+    <string name="language">Language</string>
+    <string name="indonesian">Indonesian</string>
+    <string name="english">English</string>
+    <string name="settings">Settings</string>
+    
+    <!-- Language Dialog -->
+    <string name="select_language">Select Language</string>
+    <string name="cancel">Cancel</string>
+    <string name="app_restart_required">App restart required to apply language changes</string>
+    <string name="restart">Restart</string>
+    
+    <!-- Navigation -->
+    <string name="previous">Previous</string>
+    <string name="next">Next</string>
+    
+    <!-- Search -->
+    <string name="search">Search</string>
+    <string name="search_hint">Search news...</string>
+    <string name="search_no_results">No search results</string>
+    <string name="clear_search">Clear search</string>
+    
+    <!-- Categories -->
+    <string name="category_all">All</string>
+    <string name="category_business">Business</string>
+    <string name="category_technology">Technology</string>
+    <string name="category_sports">Sports</string>
+    <string name="category_entertainment">Entertainment</string>
+    <string name="category_politics">Politics</string>
+    
+    <!-- Bookmark -->
+    <string name="bookmark">Save</string>
+    <string name="bookmarked">Saved</string>
+    <string name="remove_bookmark">Remove from saved</string>
+    <string name="bookmark_added">Article saved</string>
+    <string name="bookmark_removed">Article removed from saved</string>
+    <string name="no_bookmarks">No saved articles</string>
+    <string name="no_bookmarks_hint">Save your favorite articles by tapping the bookmark icon on the detail page</string>
+    
+    <!-- Bottom Navigation / FAB -->
+    <string name="nav_home">Home</string>
+    <string name="nav_saved">Saved</string>
+</resources>

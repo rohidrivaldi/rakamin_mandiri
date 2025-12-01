@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="32dp"
+    android:height="32dp"
+    android:viewportWidth="32"
+    android:viewportHeight="32">
+    
+    <!-- Background Circle -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M16,16m-14,0a14,14 0,1 1,28 0a14,14 0,1 1,-28 0"/>
+    
+    <!-- Letter M - Mandiri Style -->
+    <path
+        android:fillColor="#003D79"
+        android:pathData="M8,22V10h2.5l3.5,7 3.5,-7H20v12h-2.2V14.5l-3.3,6.5h-1l-3.3,-6.5V22z"/>
+    
+    <!-- Gold Accent -->
+    <path
+        android:fillColor="#FFB81C"
+        android:pathData="M22,12h3v2h-3zM22,16h3v2h-3z"/>
+</vector>

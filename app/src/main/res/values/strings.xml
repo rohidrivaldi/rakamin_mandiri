@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MandiriNews</string>
+    <string name="headline_section">Berita Terkini</string>
+    <string name="all_news_section">Semua Berita</string>
+    <string name="headline_image">Gambar headline</string>
+    <string name="news_image">Gambar berita</string>
+    <string name="error_load_headline">Gagal memuat headline</string>
+    <string name="error_load_news">Gagal memuat berita</string>
+    <string name="retry">Coba Lagi</string>
+    <string name="no_news">Tidak ada berita</string>
+    <string name="loading">Memuat…</string>
+    
+    <!-- Detail Activity -->
+    <string name="detail_title">Detail Berita</string>
+    <string name="open_in_browser">Buka di Browser</string>
+    <string name="share">Bagikan</string>
+    <string name="read_full_article">Baca Artikel Lengkap</string>
+    <string name="source">Sumber</string>
+    <string name="author">Penulis</string>
+    <string name="published_at">Dipublikasikan</string>
+    <string name="unknown_author">Penulis tidak diketahui</string>
+    <string name="unknown_source">Sumber tidak diketahui</string>
+    <string name="no_description">Deskripsi tidak tersedia</string>
+    <string name="no_content">Konten tidak tersedia. Klik tombol di bawah untuk membaca artikel lengkap.</string>
+    
+    <!-- Settings -->
+    <string name="dark_mode">Mode Gelap</string>
+    <string name="light_mode">Mode Terang</string>
+    <string name="language">Bahasa</string>
+    <string name="indonesian">Indonesia</string>
+    <string name="english">English</string>
+    <string name="settings">Pengaturan</string>
+    
+    <!-- Language Dialog -->
+    <string name="select_language">Pilih Bahasa</string>
+    <string name="cancel">Batal</string>
+    <string name="app_restart_required">Aplikasi perlu dimulai ulang untuk menerapkan perubahan bahasa</string>
+    <string name="restart">Mulai Ulang</string>
+    
+    <!-- Navigation -->
+    <string name="previous">Sebelumnya</string>
+    <string name="next">Selanjutnya</string>
+    
+    <!-- Search -->
+    <string name="search">Cari</string>
+    <string name="search_hint">Cari berita...</string>
+    <string name="search_no_results">Tidak ada hasil pencarian</string>
+    <string name="clear_search">Hapus pencarian</string>
+    
+    <!-- Categories -->
+    <string name="category_all">Semua</string>
+    <string name="category_business">Bisnis</string>
+    <string name="category_technology">Teknologi</string>
+    <string name="category_sports">Olahraga</string>
+    <string name="category_entertainment">Hiburan</string>
+    <string name="category_politics">Politik</string>
+    
+    <!-- Bookmark -->
+    <string name="bookmark">Simpan</string>
+    <string name="bookmarked">Tersimpan</string>
+    <string name="remove_bookmark">Hapus dari tersimpan</string>
+    <string name="bookmark_added">Artikel disimpan</string>
+    <string name="bookmark_removed">Artikel dihapus dari tersimpan</string>
+    <string name="no_bookmarks">Belum ada artikel tersimpan</string>
+    <string name="no_bookmarks_hint">Simpan artikel favorit dengan menekan ikon bookmark di halaman detail</string>
+    
+    <!-- Bottom Navigation -->
+    <string name="nav_home">Beranda</string>
+    <string name="nav_saved">Tersimpan</string>
+</resources>
